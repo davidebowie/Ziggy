@@ -1,12 +1,12 @@
 ﻿
 
-JSON File management for Lifeguard asset monitoring.
+**JSON File management for Lifeguard asset monitoring.
 
 ## Version History
  
 20. monitoring_configuration_V20
     ```
-  Date 20/03/2017  
+    Date 20/03/2017  
 - Readme Changes
   - Revisions re-ordered from most recent
   - Change items ordered to match Version
@@ -52,7 +52,7 @@ JSON File management for Lifeguard asset monitoring.
 
 19. Wanda_json_100_v19
     ```
-  Date 09/03/2017
+    Date 09/03/2017
 - Christie E3LH added
 
 - Christie CP2000-X added
@@ -146,7 +146,7 @@ JSON File management for Lifeguard asset monitoring.
 
 18. Wanda_json_100_v18
     ```
-  Date 23/02/2017
+    Date 23/02/2017
 - CP42LH	
   - Removed GW/MAC/SNMP1 and 2
  
@@ -317,14 +317,12 @@ JSON File management for Lifeguard asset monitoring.
 * `Integrer transformers --- Where integers are used to reflect status and used in threshold management a supplement document has been provided with a description of the transformers.
 * `Thresholds---Whenever possible a master threshold has been identified and thresholds refined as much as possible to reduce false reporting when a projector is powered off. There are an expected number of critical alerts generated when a projector is powered off or in standby.
 
+
+
 0.8. Original monitoring_configuration File
     ```
     Common to both Wanda and Vox as of 13/10/2016
-    ```
-
-
-
-
+-
 
 
 
