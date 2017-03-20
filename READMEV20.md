@@ -1,6 +1,6 @@
 ﻿
 
-**JSON File management for Lifeguard asset monitoring.
+**JSON File management for Lifeguard asset monitoring**
 
 ## Version History
  
@@ -309,20 +309,14 @@
 - IMS added
 
 0.9. Major Re-working completed
-    ```
-	VOX_Master_v9 uploade JSON file is edited to accommodate a number of restrictions inherent to Lifeguard V1.12 
-	```
+- VOX_Master_v9 uploade JSON file is edited to accommodate a number of restrictions inherent to Lifeguard V1.12
 * `Peeping Tom ---- Any conflicting oids with the peeping tom file have been removed this is to address misreporting this causes at Screenwriter and to avoid duplicating data on Lifeguard.
 * `Transformers -----The inability to convert integers to strings means that in cases where this provides info only they have not been included in the JSON file. 
 * `Integrer transformers --- Where integers are used to reflect status and used in threshold management a supplement document has been provided with a description of the transformers.
 * `Thresholds---Whenever possible a master threshold has been identified and thresholds refined as much as possible to reduce false reporting when a projector is powered off. There are an expected number of critical alerts generated when a projector is powered off or in standby.
 
-
-
 0.8. Original monitoring_configuration File
-    ```
-    Common to both Wanda and Vox as of 13/10/2016
--
+**Common to both Wanda and Vox as of 13/10/2016**
 
 
 
